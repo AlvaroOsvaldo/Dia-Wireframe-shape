@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Wireframe Shape, a shape for Dia Software to make Wireframe prototype
+Copyright (C) 2016 Alvaro Osvaldo Teixeira Martinez, lambdasoftware@yahoo.es
+
+This file is part of Wireframe shape.
+
+Wireframe shape is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>. 
+ --><sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>Wireframe App</name>
+<contents>
+<object name="Wireframe - Continue">
+<description></description>
+</object>
+<object name="Wireframe - Table 1 col">
+<description></description>
+</object>
+<object name="Wireframe - Window title">
+<description></description>
+</object>
+<object name="Wireframe - Button Nav. Bottom">
+<description></description>
+</object>
+<object name="Wireframe - Button Nav. Top">
+<description></description>
+</object>
+<object name="Wireframe - Checkbox Off">
+<description></description>
+</object>
+<object name="Wireframe - Checkbox On">
+<description></description>
+</object>
+<object name="Wireframe - Checkbox Circle">
+<description></description>
+</object>
+<object name="Wireframe - Checkbox Not">
+<description></description>
+</object>
+<object name="Wireframe - Combobox">
+<description></description>
+</object>
+<object name="Wireframe - Number">
+<description></description>
+</object>
+<object name="Wireframe - Input">
+<description></description>
+</object>
+<object name="Wireframe - Plus">
+<description></description>
+</object>
+<object name="Wireframe - Minus">
+<description></description>
+</object>
+<object name="Wireframe - Textarea">
+<description></description>
+</object>
+<object name="Wireframe - Tabulation">
+<description></description>
+</object>
+<object name="Wireframe - Slicer">
+<description></description>
+</object>
+<object name="Wireframe - Slicer Off">
+<description></description>
+</object>
+<object name="Wireframe - Slicer On">
+<description></description>
+</object>
+<object name="Wireframe - Progressbar">
+<description></description>
+</object>
+<object name="Wireframe - Scrollbar Type 1">
+<description></description>
+</object>
+<object name="Wireframe - Scrollbar Type 2">
+<description></description>
+</object>
+<object name="Wireframe - Minus Type 2">
+<description></description>
+</object>
+<object name="Wireframe - Plus and Minus">
+<description></description>
+</object>
+<object name="Wireframe - Panel">
+<description></description>
+</object>
+<object name="Wireframe - Panel Navegation">
+<description></description>
+</object>
+<object name="Wireframe - Panel Plus and Minus">
+<description></description>
+</object>
+<object name="Wireframe - Application Box 300x200">
+<description></description>
+</object>
+<object name="Wireframe - Table 2 Cols.">
+<description></description>
+</object>
+<object name="Wireframe - Plus Type 2">
+<description></description>
+</object>
+</contents>
+</sheet>

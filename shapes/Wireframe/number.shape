@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Wireframe Shape, a shape for Dia Software to make Wireframe prototype
+Copyright (C) 2016 Alvaro Osvaldo Teixeira Martinez, lambdasoftware@yahoo.es
+
+This file is part of Wireframe shape.
+
+Wireframe shape is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>. 
+
+ -->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+<name>Wireframe - Number</name>
+  <icon>number.png</icon>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="15.3864" y="-2.32675" width="7.8" height="1.33167"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x="15.3864" y="-2.32675" width="7.8" height="1.33167"/>
+    <svg:rect style="fill: #ffffff" x="20.2251" y="-2.3226" width="1.48064" height="1.32337"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x="20.2251" y="-2.3226" width="1.48064" height="1.32337"/>
+    <svg:rect style="fill: #ffffff" x="21.7058" y="-2.3226" width="1.48064" height="1.32337"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x="21.7058" y="-2.3226" width="1.48064" height="1.32337"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x1="22.9234" y1="-1.66117" x2="21.9823" y2="-1.66067"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x1="22.4659" y1="-1.1792" x2="22.4659" y2="-2.14264"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.09375; stroke: #000000" x1="21.4796" y1="-1.66912" x2="20.5384" y2="-1.66863"/>
+  </svg:svg>
+</shape>
+

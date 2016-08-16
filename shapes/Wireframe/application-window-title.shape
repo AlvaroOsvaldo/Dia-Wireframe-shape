@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Wireframe Shape, a shape for Dia Software to make Wireframe prototype
+Copyright (C) 2016 Alvaro Osvaldo Teixeira Martinez, lambdasoftware@yahoo.es
+
+This file is part of Wireframe shape.
+
+Wireframe shape is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>. 
+
+ -->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+<name>Wireframe - Window title</name>
+  <icon>application-window-title.png</icon>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="-11.2157" y="-5.88271" width="35.5675" height="1.445"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="-11.2157" y="-5.88271" width="35.5675" height="1.445"/>
+    <svg:rect style="fill: #ffffff" x="22.9422" y="-5.85637" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="22.9422" y="-5.85637" width="1.40964" height="1.40964"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="23.031" y1="-5.77646" x2="24.256" y2="-4.5464"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="24.2795" y1="-5.80298" x2="23.0186" y2="-4.5243"/>
+    <svg:rect style="fill: #ffffff" x="20.1229" y="-5.86503" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="20.1229" y="-5.86503" width="1.40964" height="1.40964"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="20.1736" y1="-5.15654" x2="21.4818" y2="-5.16538"/>
+    <svg:rect style="fill: #ffffff" x="21.5325" y="-5.86503" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="21.5325" y="-5.86503" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: #ffffff" x="21.7769" y="-5.63433" width="0.927698" height="0.927698"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="21.7769" y="-5.63433" width="0.927698" height="0.927698"/>
+    <svg:rect style="fill: #ffffff" x="3.08" y="1.445" width="35.5675" height="1.445"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="3.08" y="1.445" width="35.5675" height="1.445"/>
+    <svg:rect style="fill: #ffffff" x="37.2379" y="1.47134" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="37.2379" y="1.47134" width="1.40964" height="1.40964"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="37.3267" y1="1.55125" x2="38.5517" y2="2.78131"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="38.5752" y1="1.52473" x2="37.3143" y2="2.80341"/>
+    <svg:rect style="fill: #ffffff" x="34.4186" y="1.46268" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="34.4186" y="1.46268" width="1.40964" height="1.40964"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x1="34.4693" y1="2.17117" x2="35.7775" y2="2.16233"/>
+    <svg:rect style="fill: #ffffff" x="35.8282" y="1.46268" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="35.8282" y="1.46268" width="1.40964" height="1.40964"/>
+    <svg:rect style="fill: #ffffff" x="36.0726" y="1.69338" width="0.927698" height="0.927698"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="36.0726" y="1.69338" width="0.927698" height="0.927698"/>
+  </svg:svg>
+</shape>
+

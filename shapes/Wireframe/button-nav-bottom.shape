@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Wireframe Shape, a shape for Dia Software to make Wireframe prototype
+Copyright (C) 2016 Alvaro Osvaldo Teixeira Martinez, lambdasoftware@yahoo.es
+
+This file is part of Wireframe shape.
+
+Wireframe shape is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>. 
+
+ -->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+<name>Wireframe - Button Nav. Bottom</name>
+  <icon>button-nav-bottom.png</icon>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="-11.3207" y="-2.15611" width="2.6662" height="1.445"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="-11.3207" y="-2.15611" width="2.6662" height="1.445"/>
+    <svg:rect style="fill: #ffffff" x="-11.0707" y="-1.92919" width="0.991155" height="0.991155"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="-11.0707" y="-1.92919" width="0.991155" height="0.991155"/>
+    <svg:polygon style="fill: #ffffff" points="-10.3223,-1.146 -10.3299,-1.72052 -10.785,-1.42904 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-10.3223,-1.146 -10.3299,-1.72052 -10.785,-1.42904 "/>
+    <svg:rect style="fill: #ffffff" x="-9.90976" y="-1.92919" width="0.991155" height="0.991155"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 1.17549e-38; stroke: #000000" x="-9.90976" y="-1.92919" width="0.991155" height="0.991155"/>
+    <svg:polygon style="fill: #ffffff" points="-9.68052,-1.14619 -9.68815,-1.72071 -9.18877,-1.43459 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="-9.68052,-1.14619 -9.68815,-1.72071 -9.18877,-1.43459 "/>
+  </svg:svg>
+</shape>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Wireframe Shape, a shape for Dia Software to make Wireframe prototype
+Copyright (C) 2016 Alvaro Osvaldo Teixeira Martinez, lambdasoftware@yahoo.es
+
+This file is part of Wireframe shape.
+
+Wireframe shape is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Foobar is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>. 
+
+ -->
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+<name>Wireframe - Continue</name>
+  <icon>continue-255x12.png</icon>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #000000" cx="5.74179" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="5.74179" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:ellipse style="fill: #000000" cx="6.75239" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="6.75239" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:ellipse style="fill: #000000" cx="7.74602" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="7.74602" cy="-0.792841" rx="0.0961665" ry="0.0961665"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="0.368902" y1="-1.09284" x2="13.1189" y2="-1.09284"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="0.368902" y1="-0.492842" x2="13.1189" y2="-0.492842"/>
+  </svg:svg>
+</shape>
+
